@@ -38,7 +38,7 @@ CREATE TABLE `employee` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Dumping data for table `employee`
+-- Dumping data for table `employee` (demo values)
 --
 
 INSERT INTO `employee` (`id`, `employee_name`, `employee_age`, `phone_number`, `delivery_area`, `employee_deliveries`, `employee_salary`) VALUES
