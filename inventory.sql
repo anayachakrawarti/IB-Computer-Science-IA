@@ -36,7 +36,7 @@ CREATE TABLE `inventory` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Dumping data for table `inventory`
+-- Dumping data for table `inventory` (demo values)
 --
 
 INSERT INTO `inventory` (`number`, `item_name`, `last_stocked`, `expiry_date`, `stock_amount`) VALUES
