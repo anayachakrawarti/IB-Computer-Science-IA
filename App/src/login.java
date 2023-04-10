@@ -1,3 +1,4 @@
+// allows user login with username and password
 package GourmetDelight;
 
 import java.awt.BorderLayout;
