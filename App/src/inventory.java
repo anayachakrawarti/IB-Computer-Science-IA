@@ -1,3 +1,4 @@
+// displays inventory
 package GourmetDelight;
 
 import java.awt.BorderLayout;
