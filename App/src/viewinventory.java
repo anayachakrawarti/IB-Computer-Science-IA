@@ -1,3 +1,4 @@
+// view inventory database from MySQL
 package GourmetDelight;
 
 import java.awt.Color;
