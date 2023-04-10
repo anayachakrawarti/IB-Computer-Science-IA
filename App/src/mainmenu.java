@@ -1,3 +1,4 @@
+// main menu
 package GourmetDelight;
 
 import java.awt.BorderLayout;
