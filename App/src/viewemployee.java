@@ -1,3 +1,4 @@
+// view employee database table from MySQL
 package GourmetDelight;
 
 import java.awt.BorderLayout;
