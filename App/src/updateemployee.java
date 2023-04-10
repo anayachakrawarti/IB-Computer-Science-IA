@@ -1,3 +1,4 @@
+// add employee, edit details or remove employee
 package GourmetDelight;
 
 import java.awt.BorderLayout;
