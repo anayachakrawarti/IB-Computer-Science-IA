@@ -1,3 +1,4 @@
+// add inventory, edit details or remove inventory items
 package GourmetDelight;
 
 import java.awt.Color;
